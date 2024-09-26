@@ -15,5 +15,7 @@ public class FirstJava {
             System.out.println(i);
             System.out.println(x);
         }
+
+        System.out.println("Update GitHub");
     }
 }
