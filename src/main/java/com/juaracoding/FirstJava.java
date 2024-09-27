@@ -6,6 +6,7 @@ public class FirstJava {
         System.out.println("Indonesia");
 
         int x = 100;
+        
         if(true){
             System.out.println("True");
             System.out.println(x);
